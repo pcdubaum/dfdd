@@ -1,0 +1,99 @@
+nav{
+    background-color: rgba(0, 0, 0, 0.75);
+    border-radius: 5px;
+
+    width: 75%;
+    max-width: 1282px;
+    min-width: 940px;
+
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+    text-align: left;
+}
+
+span{
+    font-weight: bold;
+    color: black;
+    font-size: large;
+}
+
+.spaceb{
+    justify-content: space-between;
+}
+
+.black
+{
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    margin-left: 15px;
+}
+
+li#facebook
+{
+    border-radius: 5px;
+    background-color: #4267B2;
+    color: white;
+    margin-left: 15px;
+}
+
+li#youtube
+{
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    margin-left: 15px;
+}
+
+li#android
+{
+    border-radius: 5px;
+    background-color: #A4C639;
+    color: white;
+    margin-left: 15px;
+}
+
+
+ul{
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+li{
+    
+    display: inline;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+}
+
+p{
+    padding: 10px;
+}
+
+
+a:link {
+    color: white;
+}
+  
+
+a:visited {
+    color: white;
+}
+  
+
+a:hover {
+    color: white;
+}
+  
+
+a:active {
+    color: white;
+}

@@ -1,0 +1,23 @@
+.button{
+    outline: inherit;
+}
+
+.btnLeft
+{
+    position: absolute;
+    transform: translateX(-588px) translateY(-336px);
+    color: black;
+    border-radius: 4px;
+    background-color: white;
+    padding: 24px;
+}
+
+.btnRight
+{
+    position: absolute;
+    transform: translateX(528px) translateY(-336px);
+    color: black;
+    border-radius: 4px;
+    background-color: white;
+    padding: 24px;
+}

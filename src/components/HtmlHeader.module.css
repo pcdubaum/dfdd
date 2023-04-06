@@ -1,0 +1,25 @@
+.webHeader {
+    background-color: rgba(0, 0, 0, 0.75);
+    color: white;
+
+    height: 265px;
+    width: 75%;
+
+    max-width: 1282px;
+    min-width: 940px;
+
+    margin: auto;
+    text-align: center;
+
+    border-radius: 5px;
+    
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.logo{
+    width: 100%;
+    display: flex;
+    margin: auto;
+    height: 265px;
+}
