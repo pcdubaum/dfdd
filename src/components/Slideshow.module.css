@@ -2,22 +2,24 @@
     outline: inherit;
 }
 
-.btnLeft
+.button#btnLeft
 {
     position: absolute;
-    transform: translateX(-588px) translateY(-336px);
+    transform: translateX(-50%) translateY(-85%);
+    transform: translateX(-65px) translateY(-85%);
     color: black;
     border-radius: 4px;
-    background-color: white;
-    padding: 24px;
+    background-color: grey;;
+    padding: 20px;
 }
 
 .btnRight
 {
     position: absolute;
-    transform: translateX(528px) translateY(-336px);
+    transform: translateX(50%) translateY(-85%);
+    transform: translateX(15px) translateY(-85%);
     color: black;
     border-radius: 4px;
-    background-color: white;
-    padding: 24px;
+    background-color: grey;
+    padding: 20px;
 }

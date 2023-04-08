@@ -20,6 +20,14 @@ const Privacy = () => {
           <li id={styles.green}>"android.permission.VIBRATE"<span id = {styles.white}> - Necessário para informar eventos no jogo(pose ser ignorado).</span></li>
         </ul>
 
+        <h2>Compras no App e Propagandas</h2>
+      <p>O jogo Minha SAF fornece ao usuário a opção de comprar itens sentro do jogo, as compras dentro do app ficam restritas ao uso interno do jogo 
+        e durante o tempo de vida do jogo. Todas as compras são registradas pela plataforma do Google Play. O usuário pode pedir o reembolso de sua compra no prazo de até 7 dias.
+      </p>
+      <p>
+        O jogo Minha SAF exibe propagandas de terceiros como forma de se financiar, as propagandas exidas são fornecidas por plataformas de terceiros, que garantem total segurança aos usuários.
+      </p>
+
         <h2>Contatos para outras Informações</h2>
 
         <ul id={styles.green}>

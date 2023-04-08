@@ -52,7 +52,7 @@ function hideImages (index) {
     </div>
 
 
-    <button className={styles.btnLeft} onClick={() => hideImages(-1)}>&#10094;</button>
+    <button className={styles.button} id={styles.btnLeft} onClick={() => hideImages(-1)}>&#10094;</button>
     <button className={styles.btnRight} onClick={() => hideImages(+1)}>&#10095;</button>
 
     <div className="textBox">
